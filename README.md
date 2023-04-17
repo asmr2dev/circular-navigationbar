@@ -1,2 +1,3 @@
 # circular-navigation-bar
-![Image][./thumbnail.png]
+
+![demo image](./thumbnail.png)
