@@ -1,1 +1,2 @@
-# circular-navigationbar
+# circular-navigation-bar
+![Image][./thumbnail.png]
